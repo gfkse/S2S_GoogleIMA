@@ -21,7 +21,7 @@ let package = Package(
              name: "S2S_GoogleIMA",
              url:
                "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/testing/1/S2S_GoogleIMA_1.zip",
-             checksum: ""
+             checksum: "289a8bb5a88ac4b2896f3e5b5447489049a1b8929e667836914f235b4008d886"
            ),
 
     ]
