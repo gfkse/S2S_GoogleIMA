@@ -20,7 +20,7 @@ let package = Package(
         .binaryTarget(
              name: "S2S_GoogleIMA",
              url:
-               "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/testing/1/S2S_GoogleIMA_2.zip",
+               "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/testing/1/S2S_GoogleIMA_1.zip",
              checksum: "7ce28955feea4286b4ab4865aa143a09696bfd48cfd60d6a192828aed19ccadd"
            ),
 
