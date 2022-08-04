@@ -14,7 +14,7 @@ let package = Package(
             targets: ["S2S_GoogleIMA"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/CbaronGFK/s2s.git" ,
+        .package(url: "https://github.com/gfkse/s2s_sdk.git" ,
                  from: "1.0.1"),
         // Dependencies declare other packages that this package depends on.
         // .package(url: /* package url */, from: "1.0.0"),
