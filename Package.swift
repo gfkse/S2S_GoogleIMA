@@ -1,4 +1,4 @@
-// swift-tools-version: 5.6
+// swift-tools-version: 5.5
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -21,7 +21,7 @@ let package = Package(
              name: "S2S_GoogleIMA",
              url:
                "https://s3.eu-central-1.amazonaws.com/download.sensic.net/s2s/sdk/ios/testing/1/S2S_GoogleIMA_1.zip",
-             checksum: "7ce28955feea4286b4ab4865aa143a09696bfd48cfd60d6a192828aed19ccadd"
+             checksum: ""
            ),
 
     ]
