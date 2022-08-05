@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "S2S_GoogleIMA",
-    platforms: [.iOS(.v9)],
+    platforms: [.iOS(.v10)],
     products: [
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
